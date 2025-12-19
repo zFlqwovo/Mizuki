@@ -1,49 +1,110 @@
+# 关于&隐私政策
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+最后更新日期：2025年12月
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+## 概述
 
-## 🌟 Theme Features
+本网站是一个静态网站，采用**Astro**框架，并采用[Mizuki](https://github.com/matsuzaka-yuki/mizuki)主题。并使用MIT协议开源于Github，我们非常重视您的隐私。本隐私政策说明了当您访问我们的网站时，可能收集、使用和披露您信息的方式。
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+::github{repo="zFlqwovo/Mizuki"}
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+## 网站性质
+
+本网站是一个静态网站，这意味着：
+- 我们不会在服务器端存储您的个人信息
+- 网站内容是预先生成的，不会动态处理用户数据
+- 我们不会主动收集或存储您的个人信息
+
+## 第三方服务
+
+尽管本网站本身是静态的，但我们使用了以下第三方服务，这些服务可能会收集和处理您的信息：
+
+### CDN 和托管服务
+
+根据您访问的节点不同，以下服务提供商可能会收集您的信息：
+
+**Cloudflare**
+- 可能收集的信息：IP 地址、访问时间、请求的页面、浏览器信息
+- 用途：提供 CDN 服务、安全防护、性能优化
+- 隐私政策：[Cloudflare 隐私政策](https://www.cloudflare.com/privacypolicy/)
+
+**Netlify**
+- 可能收集的信息：IP 地址、访问日志、性能数据
+- 用途：网站托管、部署服务
+- 隐私政策：[Netlify 隐私政策](https://www.netlify.com/privacy/)
+
+**边缘安全加速 ESA**
+- 可能收集的信息：IP 地址、访问时间、请求的页面、浏览器信息、地区
+- 用途：提供 CDN 服务、安全防护、性能优化
+- 隐私政策：[阿里云 隐私政策](https://help.aliyun.com/document_detail/2705226.html)
 
 
+### 分析和统计服务
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+**Umami 分析**
+- 可能收集的信息：页面浏览量、访问来源、设备类型（匿名化处理）
+- 用途：网站流量统计和分析
+- 特点：注重隐私保护，不使用 Cookie，数据匿名化处理
+- 实时查看：您可以在网站导航栏中实时查看站点流量统计
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+## Cookie 和本地存储
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+我们的网站可能使用以下技术：
+- **Cookie**：用于网站功能和第三方服务
+- **本地存储**：用于保存用户偏好设置（如主题选择）
+- **会话存储**：用于临时存储页面状态
+
+## 您的权利
+
+您有权：
+- 了解我们收集的信息类型
+- 要求删除您的个人信息（如适用）
+- 选择退出某些数据收集
+- 禁用 Cookie 和 JavaScript（可能影响网站功能）
+
+## 如何保护您的隐私
+
+您可以通过以下方式保护您的隐私：
+- 使用隐私浏览模式
+- 禁用第三方 Cookie
+- 使用广告拦截器
+- 使用 VPN 服务
+- 定期清理浏览器数据
+
+## 数据安全
+
+虽然我们不直接收集您的个人信息，但我们：
+- 使用 HTTPS 加密传输
+- 选择信誉良好的第三方服务提供商
+- 定期审查第三方服务的隐私政策
+
+## 儿童隐私
+
+我们的网站不专门针对 14 岁以下的儿童。我们不会故意收集 14 岁以下儿童的个人信息。
+
+## 隐私政策更新
+
+我们可能会不时更新本隐私政策。任何更改都会在此页面上发布，重大更改会通过网站公告通知用户。
+
+## 联系我们
+
+如果您对本隐私政策有任何疑问或关注，请通过以下方式联系我们：
+- 通过网站联系页面
+- 发送邮件至网站管理员
+
+## 滥用与版权举报
+
+如果您发现网站内容存在滥用、侵权或其他违法违规行为，请通过以下方式联系我们：
+- **邮箱**：me@2719233.xyz
+
+我们将认真对待每一个举报，并在收到举报后及时处理相关问题。
+
+## 适用法律
+
+本隐私政策受中华人民共和国法律管辖。我们努力遵守适用的数据保护法律法规。
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+*本隐私政策旨在透明地说明我们的数据处理实践。我们建议您定期查看本政策以了解任何更新。*
+> ### 本站使用的图片来源
+> - [イレイナ](https://www.pixiv.net/artworks/131151746) by [big radish](https://www.pixiv.net/users/22858438)
