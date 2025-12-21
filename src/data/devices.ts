@@ -16,24 +16,24 @@ export type DeviceCategory = {
 };
 
 export const devicesData: DeviceCategory = {
-	OnePlus: [
+	Redmi: [
 		{
-			name: "OnePlus 13T",
-			image: "/images/device/oneplus13t.png",
-			specs: "Gray / 16G + 1TB",
+			name: "Redmi Note 12T Pro",
+			image: "/images/device/n12tp.jpg",
+			specs: "Black / 12G + 512GB",
 			description:
-				"Flagship performance, Hasselblad imaging, 80W SuperVOOC.",
-			link: "https://www.oneplus.com/cn/13t",
+				"LCD，天玑8200 Ultra，144 Hz 高刷，5080 mAh 电池和 67W 快充，极为先进的3.5mm耳机接口",
+			link: "https://www.mi.com/redmi-note-12t-pro",
 		},
 	],
-	Router: [
-		{
-			name: "GL-MT3000",
-			image: "/images/device/mt3000.png",
-			specs: "1000Mbps / 2.5G",
-			description:
-				"Portable WiFi 6 router suitable for business trips and home use.",
-			link: "https://www.gl-inet.cn/products/gl-mt3000/",
-		},
-	],
+	// Router: [
+	// 	{
+	// 		name: "GL-MT3000",
+	// 		image: "/images/device/mt3000.png",
+	// 		specs: "1000Mbps / 2.5G",
+	// 		description:
+	// 			"Portable WiFi 6 router suitable for business trips and home use.",
+	// 		link: "https://www.gl-inet.cn/products/gl-mt3000/",
+	// 	},
+	// ],
 };
